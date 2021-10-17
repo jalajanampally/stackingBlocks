@@ -1,0 +1,34 @@
+{
+  "requestBlockList":[
+    {
+      "length":0,
+      "width":11,
+      "height":17
+    },
+    {
+      "length":7,
+      "width":17,
+      "height":11
+    },
+    {
+      "length":11,
+      "width":7,
+      "height":17
+    },
+    {
+      "length":11,
+      "width":17,
+      "height":7
+    },
+    {
+      "length":17,
+      "width":7,
+      "height":11
+    },
+    {
+      "length":17,
+      "width":11,
+      "height":7
+    }
+  ]
+}
